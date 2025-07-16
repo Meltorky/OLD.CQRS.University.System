@@ -1,0 +1,6 @@
+@CQRS.University.System.API_HostAddress = http://localhost:5055
+
+GET {{CQRS.University.System_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
